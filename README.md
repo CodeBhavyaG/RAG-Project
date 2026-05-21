@@ -26,5 +26,5 @@ A small Retrieval-Augmented Generation (RAG) project that:
 ## Install
 
 ```bash
-cd /Users/archbutmac/Desktop/RAG
+cd RAG
 uv add -r requirements.txt
